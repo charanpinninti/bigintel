@@ -1,0 +1,2 @@
+# bigintel
+learning hadoop
